@@ -1,0 +1,10 @@
+Tässä pari ideaa:
+- RPG dice thrower
+- Jonkinlainen hauska soundboard
+- Multistopwatch
+- Sienentunnistusohjelma
+- Sääennustusohjelma joka käyttää Ilmatieteenlaitoksen avointa dataa
+- Joku Unityn tutoriaaliprojekteista: http://unity3d.com/learn/tutorials
+  (kaikki assetit täytyy kyllä itse tehdä)
+
+Ideoita voit etsiä myös vaikka kännykkäsi appstoresta, tms.
